@@ -23,8 +23,11 @@ nav li a {
 header {
     background-image: url(../img/planches.jpg);
     height: 400px;
-    text-align: right;
-    
+    text-align: right;    
+}
+
+header h1 {
+    text-align: left;
 }
 .cerf {
     width: 150px;
@@ -35,17 +38,16 @@ header {
 }
 /* section 1 */
 #ourstory {
-    width: 1000px;
     height: 400px;    
 }
 .oursto {
-    width: 300px;
+    width: 360px;
     height: 400px;
     float: left;
     text-align: center;
 }
 .asp {
-    width: 700px;
+    
     height: 400px;
     float: left;
 }
@@ -74,7 +76,7 @@ header {
     height: 400px;
 }
 .loc {
-    width: 350px;
+    width: 400px;
     height: 400px;
     float: left;
     text-align: center;
